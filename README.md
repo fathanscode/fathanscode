@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://tenor.com/view/twice-jihyo-jihyo-jihyo-cute-cute-jihyo-gif-12953195013794262130"  />
-</div>
+<div class="tenor-gif-embed" data-postid="12953195013794262130" data-share-method="host" data-aspect-ratio="1.0332" data-width="100%"><a href="https://tenor.com/view/twice-jihyo-jihyo-jihyo-cute-cute-jihyo-gif-12953195013794262130">Twice Jihyo Jihyo Cute GIF</a>from <a href="https://tenor.com/search/twice+jihyo-gifs">Twice Jihyo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
