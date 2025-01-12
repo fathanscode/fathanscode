@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="381" src="https://media1.tenor.com/m/s8L-PG-RbHIAAAAd/twice-jihyo-jihyo.gif"  />
+  <img height="381" src="https://media1.tenor.com/m/8KRRSWPd5Q4AAAAd/twice-jihyo.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Fachri Fathan from Indonesia<br><br>- 🔭 I’m studying Network Engineer<br>- 📚 I'm currently learning Machine Learning | UI/UX Designer<br>- ⚡ In my free time I used to gaming sometimes but ilek to learn something</p>
+<p align="left">I'm Fachri Fathan based in Indonesia. i'm just a boy who liked Tech and Design, so if u want collaborate with me hit me up on down below!<br><br>- 🔭 I’m studying Network Engineer<br>- 📚 I'm currently learning Machine Learning | UI/UX Designer<br>- ⚡ In my free time I used to gaming sometimes but i like to learn something</p>
 
 ###
 
