@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hello there! 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Fachri Fathan from Indonesia<br><br>- 🔭 I’m studying Network Engineer<br>- 📚 I'm currently learning Machine Learning | UI/UX Designer<br>- ⚡ In my free time I used to gaming sometimes but i like to learn something</p>
+<p align="left">I'm Fachri Fathan from Indonesia<br><br>- 🔭 I’m studying Network Engineer<br>- 📚 I'm currently learning Machine Learning | UI/UX Designer<br>- ⚡ In my free time I used to gaming sometimes but ilek to learn something</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
